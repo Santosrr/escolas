@@ -1,4 +1,4 @@
-## Escolas em Dia: Seu guia para serviços escolares
+## Escolas em Dia: Seu guia para solicitação de serviços escolares
 
 ### O que é?
 Escolas em Dia é um buscador simples e intuitivo que te ajuda a encontrar as escolas mais adequadas para suas necessidades. Basta digitar o serviço desejado e pronto!
