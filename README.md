@@ -1,7 +1,7 @@
 ## Escolas em Dia: Seu guia para solicitação de serviços escolares
 
 ### O que é?
-Escolas em Dia é um buscador simples e intuitivo que te ajuda a encontrar as escolas mais adequadas para suas necessidades. Basta digitar o serviço desejado e pronto!
+Escolas em Dia é um buscador simples e intuitivo que ajuda  as escolas envia suas solicitações de serviços mais rápidas para os responsáveis para suas necessidades. Basta digitar o serviço desejado e pronto!
 
 ### Como funciona?
 1. **Pesquisa:** Digite o serviço que precisa (ex: matrícula, transporte escolar).
